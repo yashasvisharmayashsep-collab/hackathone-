@@ -1,0 +1,22 @@
+Project Alpha Weekly Meeting
+
+Rahul:
+I will complete the frontend login page by Friday.
+
+Aman:
+I will work on the database integration and finish it by Saturday.
+
+Yashasvi:
+I will prepare the presentation for Monday.
+
+Rahul:
+Should we use React or Angular?
+
+Team:
+We decided to use React.
+
+Aman:
+We still need to decide which cloud provider to use.
+
+Manager:
+The final project review will be on Monday. We also need someone to complete the entire production deployment pipeline by tomorrow morning before the client check-in.

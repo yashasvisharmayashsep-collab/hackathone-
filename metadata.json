@@ -1,0 +1,6 @@
+{
+  "name": "AI Meeting Copilot",
+  "description": "Transform unstructured meeting transcripts into structured summaries, decisions, prioritized action items, deadline risk assessments, unresolved topic trackers, and grounded meeting Q&A.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
